@@ -19,7 +19,7 @@ public class main {
 			while(num1<=num2) 
 			{
 				suma=suma+num1;
-				num1++;
+				num1++; // prueba comentario
 			}
 			
 			System.out.println("La suma de los números es: "+suma);
